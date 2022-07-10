@@ -28,6 +28,7 @@ Search server
 C++ implementation of a search server. Supports stop words, minus word and documents properties. Realized TF-IDF ranking. Paginator and documents deduplicator are also realized. Some operation use multithreading features.
 
 Other project can be found here: https://github.com/MSTitov?tab=repositories
+
 Contacts
 
     E-mail: mstitovforgit@gmail.com
