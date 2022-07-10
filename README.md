@@ -9,6 +9,7 @@ I like
 Skills and Tools
 
 C++, Python, BMP, OOP, Design Patterns, Cmake, Protobuf, Linux, , Git, JSON, SVG, Clang, GCC, Unit Testing
+
 Completed projects
 
 Mython interpretator
