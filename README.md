@@ -8,7 +8,7 @@ I like
 
 Skills and Tools
 
-C++, Python, BMP, OOP, Design Patterns, Cmake, Protobuf, Linux, , Git, JSON, SVG, Clang, GCC, Unit Testing, Boost, Eigen
+C++, Python, Design Patterns, Cmake, Protobuf, Linux, , Git, Clang, GCC, Unit Testing, Boost, Eigen, NumPy, SciPy, Pandas, Yaml, Plotly
 
 Completed projects
 
