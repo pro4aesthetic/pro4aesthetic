@@ -33,4 +33,4 @@ Other project can be found here: https://github.com/MSTitov?tab=repositories
 Contacts
 
     E-mail: mstitovforgit@gmail.com
-    Telegram: @Yare1Yare1Daze
+    Telegram: @bpmOneill
