@@ -1,10 +1,6 @@
-Hello, I'm a C++ developer
-
-I like
-
-    concise code
-    order
-    brevity
+<div align="center">
+    <img src="assets/welcome.gif" style="margin: auto"/>
+</div>
 
 Skills and Tools
 
@@ -27,8 +23,6 @@ C++ backend inplementaion of a transport router with a embedded stops database a
 Search server
 
 C++ implementation of a search server. Supports stop words, minus word and documents properties. Realized TF-IDF ranking. Paginator and documents deduplicator are also realized. Some operation use multithreading features.
-
-Other project can be found here: https://github.com/MSTitov?tab=repositories
 
 Contacts
 
