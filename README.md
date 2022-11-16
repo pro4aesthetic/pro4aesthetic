@@ -27,4 +27,4 @@ C++ implementation of a search server. Supports stop words, minus word and docum
 Contacts
 
     E-mail: mstitovforgit@gmail.com
-    Telegram: @bpmOneill
+    Telegram: @pro4aethetic
